@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Hacknoodles" size="2398.000000 2128.000000" />
+    <ImageTarget name="coldcoffee" size="615.000000 947.849487" />
+    <ImageTarget name="friesv" size="1722.000000 2188.456055" />
+    <ImageTarget name="combo" size="765.000000 923.000000" />
+    <ImageTarget name="fries" size="839.000000 969.000000" />
+    <ImageTarget name="pizzza" size="1277.000000 686.000000" />
+    <ImageTarget name="taco" size="1127.000000 947.000000" />
+    <ImageTarget name="burger" size="1125.000000 985.000000" />
+    <ImageTarget name="pizza" size="1300.000000 1366.000000" />
+    <ImageTarget name="d685a9d1a5f4a2e294f4bd2bc179a909" size="1000.000000 730.462524" />
+    <ImageTarget name="AR_with_Vuforia" size="6.000000 3.532825" />
+  </Tracking>
+</QCARConfig>
